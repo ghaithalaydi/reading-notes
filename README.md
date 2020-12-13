@@ -8,4 +8,4 @@ in my modest opinion is what diffrentiates a slacker from a go getter. I also be
 
 3.it will all work out eventually
 
-Still in the making, but you can always view my portfolio under (https://github.com/ghaithalaydi)
+*Still in the making, but you can always view my portfolio under* (https://github.com/ghaithalaydi)
