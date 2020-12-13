@@ -3,7 +3,9 @@ in my modest opinion is what diffrentiates a slacker from a go getter. I also be
 
 ## So my notes to self would be:
 1.focus 
+
 2.calm down 
+
 3.it will all work out eventually
 
 Still in the making, but you can always view my portfolio under (https://github.com/ghaithalaydi)
