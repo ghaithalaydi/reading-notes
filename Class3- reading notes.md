@@ -1,7 +1,8 @@
 #Today's topics
 ## Git 
-*git is a web application used to download and upload content from and to your local machine from cloud based sources and servers 
-*git also helps in version control and tracking changes to your reposotiries 
++git is a web application used to download and upload content from and to your local machine from cloud based sources and servers 
++git also helps in version control and tracking changes to your reposotiries 
+
 *some of the commands we have experience today include: 
  *Ls, used to list the elements of a specific directory 
  *pwd, to print the current working directory 
